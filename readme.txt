@@ -2,4 +2,5 @@ Notebooks in this folder contains attempts to answer exercise questions in the H
 
 1. Use KNN on MNIST to achieve 97% accuracy
 2. feature 1a
-3. feature 3
+3. feature 2
+4. feature 3
